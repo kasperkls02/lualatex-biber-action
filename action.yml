@@ -1,5 +1,5 @@
-name: 'Latex Biber Action'
-author: 'julianahrens'
+name: 'luaLatex Biber Action'
+author: 'kasperkls02'
 description: 'texlive-full including biber for complinig latex'
 inputs:
   filename:
