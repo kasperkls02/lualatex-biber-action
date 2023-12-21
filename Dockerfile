@@ -1,4 +1,4 @@
-FROM julianahrens/latex-alpine
+FROM danteev/texlive/
 
 COPY entrypoint.sh /entrypoint.sh
 
